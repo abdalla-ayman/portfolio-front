@@ -12,7 +12,7 @@ function ContactMe() {
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);
-    fetch("http://localhost:5000/email", {
+    fetch("/email", {
       method: "POST",
       // mode: "no-cors",
       headers: { "Content-Type": "application/json" },
