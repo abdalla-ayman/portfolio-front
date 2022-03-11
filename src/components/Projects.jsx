@@ -22,7 +22,7 @@ function Projects() {
             weather of any city in the world
           </p>
           <a
-            href="https://resumebuilder-xd.netlify.app/"
+            href="https://weatherforecasting-xd.netlify.app/"
             target="_blank"
             className="text-g text-lg font-light border rounded inline-block py-1 px-4 my-3 "
           >
