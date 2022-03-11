@@ -7,7 +7,10 @@ body {
   background-color: rgb(10 25 47);
 }
 
-nav {
+nav,
+.nv,
+.ft,
+.modal {
   /* background-color: rgb(10 25 47); */
   background-color: #0f2749;
   font-family: "Rajdhani", sans-serif;
@@ -31,7 +34,8 @@ nav {
 a:active,
 a:hover,
 li:hover,
-.link:hover {
+.link:hover,
+nav button {
   color: #64ffda;
 }
 
@@ -41,7 +45,8 @@ button {
 }
 
 .card a:hover,
-button:hover {
+button:hover,
+#about a:hover {
   background-color: #64ffdb23;
 }
 
