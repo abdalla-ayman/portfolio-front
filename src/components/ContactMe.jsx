@@ -39,7 +39,7 @@ function ContactMe() {
   };
   return (
     <div
-      className="py-32 flex flex-col justify-center   font-bold	 text-white"
+      className="pt-20 pb-32  flex flex-col justify-center   font-bold	 text-white"
       id="contact"
     >
       <div className="flex items-center my-8" data-aos="zoom-out-right">
