@@ -1,7 +1,7 @@
 function Skills() {
   return (
     <div
-      className="min-h-screen flex flex-col justify-center   font-bold	 text-white"
+      className="my-32  flex flex-col justify-center   font-bold	 text-white"
       id="skills"
     >
       <div className="flex items-center my-8" data-aos="zoom-out-right">
