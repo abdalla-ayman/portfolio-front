@@ -39,7 +39,7 @@ function ContactMe() {
   };
   return (
     <div
-      className="pt-20 pb-32  flex flex-col justify-center   font-bold	 text-white"
+      className="py-16  flex flex-col justify-center   font-bold	 text-white"
       id="contact"
     >
       <div className="flex items-center my-8" data-aos="zoom-out-right">
@@ -104,8 +104,6 @@ function ContactMe() {
         <button
           type="submit"
           className="my-3 mx-auto text-lg border w-fit px-3 py-1 rounded"
-          data-aos="fade-up"
-          data-aos-duration="1500"
         >
           Send <i className="fa-solid fa-paper-plane text-g"></i>
         </button>

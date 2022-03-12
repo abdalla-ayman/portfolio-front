@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div
-      className=" flex flex-col py-20 justify-center tracking-wide text-d font-semibold	"
+      className=" flex flex-col pt-32 pb-16 justify-center tracking-wide text-d font-semibold	"
       id="home"
       data-aos="fade-up"
       data-aos-duration="1500"

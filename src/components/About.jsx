@@ -1,7 +1,7 @@
 function About() {
   return (
     <div
-      className="py-20  flex flex-col justify-center font-bold	text-white"
+      className="py-16  flex flex-col justify-center font-bold	text-white"
       id="about"
     >
       <div className="flex items-center my-8" data-aos="zoom-out-right">
