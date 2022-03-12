@@ -1,7 +1,7 @@
 function Projects() {
   return (
     <div
-      className="my-32  flex flex-col justify-center   font-bold	 text-white"
+      className="py-32  flex flex-col justify-center   font-bold	 text-white"
       id="projects"
     >
       <div className="flex items-center my-8" data-aos="zoom-out-right">
