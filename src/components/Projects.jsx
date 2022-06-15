@@ -15,6 +15,25 @@ function Projects() {
           data-aos-duration="1500"
         >
           <h3 className="text-xl sm:text-2xl text-l h-32">
+            B2C ecommerce website
+          </h3>
+          <p className="my-4 h-32">
+            B2C ecommerce web application with cart and user registration
+          </p>
+          <a
+            href="https://sellers-xd.herokuapp.com/"
+            target="_blank"
+            className="text-g text-lg font-light border rounded inline-block py-1 px-4 my-3 "
+          >
+            Visit
+          </a>
+        </div>
+        <div
+          className="card border rounded p-4 w-64 m-5 h-96	"
+          data-aos="flip-left"
+          data-aos-duration="1500"
+        >
+          <h3 className="text-xl sm:text-2xl text-l h-32">
             Weather Forecasting Website
           </h3>
           <p className="my-4 h-32">
