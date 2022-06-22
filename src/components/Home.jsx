@@ -11,10 +11,9 @@ function Home() {
       </p>
 
       <h2 className="text-2xl sm:text-5xl text-l">Abdalla Ayman.</h2>
-      <h2 className="text-2xl sm:text-5xl">I build things for the web. </h2>
+      <h2 className="text-2xl sm:text-5xl">I build web applications. </h2>
       <p className="w-12/12 sm:w-10/12 md:w-8/12">
-        I'm full stack javascript developer specializing in reactjs, nodejs and
-        javascript ES6 in general
+        I'm full stack mern developer (mongoose, express, reactjs, nodejs)
       </p>
     </div>
   );

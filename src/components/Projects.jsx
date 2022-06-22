@@ -34,10 +34,10 @@ function Projects() {
           data-aos-duration="1500"
         >
           <h3 className="text-xl sm:text-2xl text-l h-32">
-            Weather Forecasting Website
+            Weather forecasting website
           </h3>
           <p className="my-4 h-32">
-            Web Application for Checking Today's, Tomrrow's, and Yesterday's
+            Web application for checking today's, tomrrow's, and yesterday's
             weather of any city in the world
           </p>
           <a
@@ -57,7 +57,7 @@ function Projects() {
             Resume Builder Website
           </h3>
           <p className="my-4 h-32">
-            Web Application for building A full descriptive resume
+            Web application for building a full descriptive resume
           </p>
           <a
             href="https://resumebuilder-xd.netlify.app/"
@@ -77,7 +77,7 @@ function Projects() {
             className="inline-block w-full m-0 p-0 flex flex-col justify-center"
           >
             <i class="fa-solid fa-plus text-xl sm:text-2xl"></i>
-            <p>Add To My Projects</p>
+            <p>add to my projects</p>
           </a>
         </div>
       </ul>
